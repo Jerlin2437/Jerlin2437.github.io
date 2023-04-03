@@ -8,9 +8,11 @@
     "website": "https://jerlin2437.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the School of Arts and Sciences at the Rutgers University in New Brunswick. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
+"profiles": [
       { "network": "github", "username": "Jerlin2437", "url": "http://github.com/Jerlin2437" },
-      { "network": "linkedin", "username": "Jerlin Yuen", "url": "http://linkedin.com/in/jerlinyuen" }
+      { "network": "linkedin", "username": "Jerlin Yuen", "url": "http://linkedin.com/in/jerlinyuen" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
