@@ -24,10 +24,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Java", "C++", "Kotlin", "SQL", "Firebase", "PHP" ]
     }
   ],
   "education": [
