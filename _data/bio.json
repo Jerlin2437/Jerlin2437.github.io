@@ -18,12 +18,12 @@
     { "name": "Mobile App Development" },
     { "name": "Data Science" },
     { "name": "Robotics" },
-    { "name": "Web Development" }
+    { "name": "Web Development" },
+    { "name": "Rutgers Powerlifting"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
