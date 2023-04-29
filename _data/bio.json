@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Jerlin Yuen",
+    "label": "Student",
+    "picture": "https://media.licdn.com/dms/image/D4E03AQHFkYmFxZEESw/profile-displayphoto-shrink_800_800/0/1681131219728?e=1686787200&v=beta&t=54QFqiIsheTpWC3pRP5ByahbtDrGTmnafTexKnVd6Eg",
+    "email": "jerlin.yuen@gmail.com",
+    "phone": "551-202-9472",
+    "website": "https://jerlin2437.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the School of Arts and Sciences at the Rutgers University in New Brunswick. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Jerlin2437", "url": "http://github.com/Jerlin2437" },
+      { "network": "linkedin", "username": "Jerlin Yuen", "url": "http://linkedin.com/in/jerlinyuen" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Mobile App Development" },
+    { "name": "Data Science" },
+    { "name": "Robotics" },
+    { "name": "Web Development" },
+    { "name": "Rutgers Powerlifting"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "C++", "Kotlin", "SQL", "Firebase", "PHP" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rutgers University, New Brunswick, NJ",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.S.",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "PlaceHOLDER SINCE I HAVE NO WORK EXPERIENCE IN CS",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Tenafly Nature Center",
+      "position": "Data Entry and Grounds Maintenance",
+      "startDate": "2018-12-01",
+      "endDate": "Present",
+      "summary": "Manipulated spreadsheets and maintained grounds",
+      "highlights": [
+        "Maintained yearly spreadsheets representing yearly earnings",
+        "Picked trash, weeds, and navigated trails to ensure safety standards were met"
+      ]
+    },
+    
+  ],
+  
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
