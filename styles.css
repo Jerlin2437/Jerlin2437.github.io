@@ -64,12 +64,14 @@ section p {
 
 /* Image Styles */
 img.photo {
-  max-width: 100%;
-  height: auto;
+  max-width: 50%; /* Limit the image width to 50% of the container */
+  height: auto; /* Maintain the aspect ratio */
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   margin-top: 1rem;
+  margin-bottom: 1rem; /* Add spacing to separate the image from text */
 }
+
 
 /* Footer Styles */
 footer {
