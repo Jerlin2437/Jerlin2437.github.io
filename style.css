@@ -1,23 +1,25 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Calibri', sans-serif; /* Calibri as primary font */
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #fefbf6; /* Pale pastel cream */
     color: #333;
     text-align: center;
+    line-height: 1.6;
   }
   
   /* Header Styles */
   header {
-    background-color: #333;
+    background-color: #4a4e69; /* A subtle dark shade for contrast */
     color: #fff;
     padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   
   header h1 {
     margin: 0;
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
   
   header nav {
@@ -25,13 +27,15 @@ body {
   }
   
   header nav a {
-    color: #fff;
+    color: #ffd166; /* A warm accent color */
     text-decoration: none;
     margin: 0 0.5rem;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
   }
   
   header nav a:hover {
-    text-decoration: underline;
+    color: #ffaf87; /* Lighter accent on hover */
   }
   
   /* Main Section Styles */
@@ -39,23 +43,43 @@ body {
     padding: 2rem;
   }
   
+  section {
+    margin-bottom: 2rem;
+  }
+  
   section h2 {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    color: #4a4e69; /* Match the header background for harmony */
     margin-bottom: 1rem;
   }
   
   section p {
-    font-size: 1rem;
+    font-size: 1.1rem;
     margin: 0 auto;
     max-width: 600px;
-    line-height: 1.5;
+    line-height: 1.8;
+    color: #5a5a5a; /* Softer gray for text */
+    text-align: justify;
   }
   
   /* Footer Styles */
   footer {
-    background-color: #333;
+    background-color: #4a4e69;
     color: #fff;
     padding: 1rem 0;
     margin-top: 2rem;
+    font-size: 0.9rem;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Additional Styling */
+  a {
+    text-decoration: none;
+    color: #4a90e2; /* Link color */
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #2d6dc3; /* Darker blue on hover */
   }
   
